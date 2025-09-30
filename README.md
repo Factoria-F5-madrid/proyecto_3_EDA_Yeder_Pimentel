@@ -1,4 +1,4 @@
-# Video Game Sales — EDA (Kaggle: rush4ratio)
+# Video Game Sales — EDA 
 
 **Proyecto:** Exploratory Data Analysis (EDA) sobre ventas de videojuegos con ratings.  
 **Dataset:** `Video_Games_Sales_as_at_22_Dec_2016.csv` (rush4ratio / Kaggle).  
